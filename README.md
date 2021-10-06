@@ -71,7 +71,7 @@ The performances of the models on the test data and in all experiments are prese
 
 
 # Citations
-'''
+```
 @InProceedings{Melnyk_2021_ICCV,
     author    = {Melnyk, Pavlo and Felsberg, Michael and Wadenback, Marten},
     title     = {Embed Me if You Can: A Geometric Perceptron},
@@ -80,4 +80,4 @@ The performances of the models on the test data and in all experiments are prese
     year      = {2021},
     pages     = {1276-1284}
 }
-'''
+```
