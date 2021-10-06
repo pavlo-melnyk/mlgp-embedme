@@ -2,6 +2,8 @@
 
 This repository is the official implementation of the ICCV2021 ["Embed Me If You Can: A Geometric Perceptron"](https://openaccess.thecvf.com/content/ICCV2021/html/Melnyk_Embed_Me_if_You_Can_A_Geometric_Perceptron_ICCV_2021_paper.html) paper.
 
+[arXiv](https://arxiv.org/abs/2006.06507)
+
 
 
 ## The proposed MLGP model
@@ -68,4 +70,14 @@ The performances of the models on the test data and in all experiments are prese
 
 
 
-
+# Citations
+'''
+@InProceedings{Melnyk_2021_ICCV,
+    author    = {Melnyk, Pavlo and Felsberg, Michael and Wadenback, Marten},
+    title     = {Embed Me if You Can: A Geometric Perceptron},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {1276-1284}
+}
+'''
