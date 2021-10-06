@@ -1,6 +1,6 @@
 # Embed Me If You Can: A Geometric Perceptron
 
-This repository is the official implementation of the ["Embed Me If You Can: A Geometric Perceptron"](https://arxiv.org/abs/2006.06507) paper.
+This repository is the official implementation of the ICCV2021 ["Embed Me If You Can: A Geometric Perceptron"](https://openaccess.thecvf.com/content/ICCV2021/html/Melnyk_Embed_Me_if_You_Can_A_Geometric_Perceptron_ICCV_2021_paper.html) paper.
 
 
 
